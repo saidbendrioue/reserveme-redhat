@@ -103,12 +103,6 @@
             <artifactId>mapstruct</artifactId>
             <version>${org.mapstruct.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.othex</groupId>
-            <artifactId>reserveme-front</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>runtime</scope>
-         </dependency>
     </dependencies>
 
     <build>
